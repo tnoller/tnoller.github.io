@@ -24,9 +24,9 @@ Notably, I orchestrated the design, implementation, and deployment of technology
 [scalefacilitation.com](https://scalefacilitation.com/)
 
 ### SaniteX Global | Geelong, AU
-* __Director, Technology |  (2021 - 2022)__
-* __Director, Technology Strategy & Delivery |  (2021)__
-* __Technology Project Manager |  (2021)__
+* __Director, Technology  (2021 - 2022)__
+* __Director, Technology Strategy & Delivery  (2021)__
+* __Technology Project Manager  (2021)__
 
 SaniteX Global’s role as a Scale Facilitation® Channel is to support innovators to find a place on prime contracts, either off the back of contracts awarded to SaniteX Global or facilitated by the team to win contracts of their own.
 Through successfully adapting to unprecedented challenges, SaniteX Global has grown to partner with the world’s leading innovators and scientific research organizations.
@@ -34,53 +34,25 @@ Through successfully adapting to unprecedented challenges, SaniteX Global has gr
 Throughout this journey, I demonstrated adept leadership by orchestrating intricate technology projects that culminated in the successful delivery of a comprehensive suite of in-house products. Simultaneously, I assumed a key role in spearheading internal technology initiatives, harmoniously aligned with our company's strategic roadmap. My performance thrived within a high-growth, fast-paced scale-up ecosystem, consistently driving innovation and results.
 
 ### Accenture Australia | Canberra & Melbourne, AU
-* __Functional & Industry Analytics Manager |  (2018 - 2021)__
+* __Functional & Industry Analytics Manager  (2018 - 2021)__
 
 During my tenure at Accenture Australia, I held the position of Manager within the Applied Intelligence (analytics, data, AI) practice. In this role, I adeptly orchestrated agile project delivery and led cross-functional teams, while also devising sophisticated data and analytics solutions. Moreover, I played a pivotal role in spearheading business development endeavors, driving successful client engagements and contributing to the practice's growth and success.
 
-__Client Roles__
-* Scrum Master
-* Analytics Functional Lead
-* Test Lead
-* Functional Designer
-* Analytics Product Advisor 
-* Data & Analytics Solution Architect Lead
-* Project Manager
-* Integration Manager
-
-__Functional Experience__
-* Data Analytics 
-* Data Visualisation
-* Data Modelling
-* Data Management
-* Data Governance
-* Network/Graph Analytics 
-* Agile Project Delivery (Scrum, Kanban)
-* Design Thinking Practices
-* Human Centred Design (HCD)
-* User Experience Design
-* Solution Architecture 
-
-__Industry Experience__
-* Defence, National Security 
-* Home Affairs, Policing & Public Safety
-* Cyber Security 
-* Health, Insurance, Tax, Mining, Utilities
-* Federal and State Government
+While working for Accenture, I supported in the following client roles, often based on-site: Scrum Master; Analytics Functional Lead; Test Lead; Functional Designer; Analytics Product Advisor; Data & Analytics Solution Architect Lead; Project Manager; Integration Manager. These clients were across industries including: Defence, National Security; Home Affairs, Policing & Public Safety; Cyber Security; Health, Insurance, Tax, Mining, Utilities; Federal and State Government.
 
 [accenture.com](https://www.accenture.com/au-en/about/company/australia)
 
 ### IMSL | Canberra, AU
-* __Country Manager / Lead Field Support Representative |  (2016 - 2018)__
-* __Field Support Representative |  (2015 - 2016)__
+* __Country Manager / Lead Field Support Representative  (2016 - 2018)__
+* __Field Support Representative  (2015 - 2016)__
 
 Effectively managed the service provider relationship by optimizing collaboration, ensuring timely deliverables through strategic communication and performance assessment. Successfully led a geographically dispersed, nationally focused team by employing clear communication, remote management practices, and fostering collaboration, resulting in consistent high-performance outcomes. Delivered personalized support to Palantir users as a dedicated product and analytics specialist, promptly addressing queries, offering guidance, and troubleshooting challenges to enhance user satisfaction and proficiency. Spearheaded the creation and refinement of data models to strategically optimize data organization and accessibility, thereby facilitating accurate insights and informed decision-making. Demonstrated expertise in meticulous data migration and cleansing processes, ensuring secure transitions and improved data integrity through rigorous validation and quality assurance measures.
 
 [intelmsl.com](https://www.intelmsl.com/)
 
 ### Department of Defence | Canberra, AU
-* __Cyber Operations Coordinator |  (2012 - 2015)__
-* __Technologist (various positions) |  (2010 - 2012)__
+* __Cyber Operations Coordinator  (2012 - 2015)__
+* __Technologist (various positions)  (2010 - 2012)__
 
 In a pivotal capacity, I assumed ownership of coordinating major cyber incident responses across federal and state governments, leading cross-functional teams to rapidly identify and neutralize cyber threats. This role fortified our cyber resilience and ensured efficient execution.
 
@@ -93,7 +65,7 @@ Furthermore, I took on the role of leadership and mentorship, nurturing the grow
 [defence.gov.au](https://www.defence.gov.au/)
 
 ### Noltec Solutions | Geelong, AU
-* __Director |  (2008 - 2013)__
+* __Director  (2008 - 2013)__
 
 As Founder and Company Director, I played a pivotal role in establishing and guiding the company, defining its vision and providing visionary leadership. Through strategic planning and hands-on direction, we adeptly navigated industry challenges, nurtured a culture of innovation, and realized substantial growth. This journey was underpinned by our unwavering commitment to surpassing client expectations and consistently delivering services of exceptional quality.
 
@@ -101,13 +73,13 @@ Our core focus involved delivering specialized ICT support services to SMBs, str
 
 # Education
 
-* Dip. in Project Management | Bayley & Associates, Australia (2014-2015)
-* B.IT. in Web & Mobile Technologies | Deakin University, Australia (2006-2009)
+* Dip. in Project Management - Bayley & Associates, Australia (2014-2015)
+* B.IT. in Web & Mobile Technologies - Deakin University, Australia (2006-2009)
 
 # Courses
 
 ### Azure Fundamentals
-* AZ-900 | Microsoft (2020)
+* AZ-900 - Microsoft (2020)
 
 # Volunteering
 
@@ -148,6 +120,16 @@ Engaged in critical Firefighting and Emergency Response roles as an operational 
 * Stakeholder Management
 * Data Architecture
 * Data Analytics
+* Data Visualisation
+* Data Modelling
+* Data Management
+* Data Governance
+* Network/Graph Analytics 
+* Agile Project Delivery (Scrum, Kanban)
+* Design Thinking Practices
+* Human Centred Design (HCD)
+* User Experience Design
+* Solution Architecture
 
 # Projects
 
