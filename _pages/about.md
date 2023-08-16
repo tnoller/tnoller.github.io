@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About Todd Noller"
+title: "About"
 excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About
 
 Todd Noller is a seasoned technology executive, currently based in New York City. With Australian roots and originally hailing from Geelong, southwest of Melbourne, Todd has a wealth of knowledge and breadth of experience from a range of positions across the technology industry. 
 
