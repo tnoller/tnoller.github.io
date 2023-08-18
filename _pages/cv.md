@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-
-# Work Experience
 
 ### Scale Facilitation | New York, US; Geelong, AU
 * __Managing Director, Technology  (2022 - Present)__
@@ -103,6 +101,24 @@ Engaged in critical Firefighting and Emergency Response roles as an operational 
 
 [cfa.vic.gov.au](https://www.cfa.vic.gov.au/)
 
+# Projects
+
+### Know Your Home (Mobile app) (2020 - Present)
+
+Hobby mobile app development project, learning and experimenting with the Flutter mobile SDK for front end and Firebase back end. 
+
+Involved in all aspects of the product development life cycle including ideation, design, build, test release, support.
+
+Utilised:
+* Google Flutter SDK/Dart for front end 
+* Google Firebase for mobile cloud services (Authentication, Firestore)
+* Google Play Developer services for app hosting, being management 
+* Jira Cloud for agile workflow and release management 
+* Bitbucket/Git for source control 
+* VS Code for IDE
+
+[knowyourhome.app](https://www.knowyourhome.app/)
+
 # Skills
 
 * Technology Leadership
@@ -130,24 +146,6 @@ Engaged in critical Firefighting and Emergency Response roles as an operational 
 * Human Centred Design (HCD)
 * User Experience Design
 * Solution Architecture
-
-# Projects
-
-### Know Your Home (Mobile app) (2020 - Present)
-
-Hobby mobile app development project, learning and experimenting with the Flutter mobile SDK for front end and Firebase back end. 
-
-Involved in all aspects of the product development life cycle including ideation, design, build, test release, support.
-
-Utilised:
-* Google Flutter SDK/Dart for front end 
-* Google Firebase for mobile cloud services (Authentication, Firestore)
-* Google Play Developer services for app hosting, being management 
-* Jira Cloud for agile workflow and release management 
-* Bitbucket/Git for source control 
-* VS Code for IDE
-
-[knowyourhome.app](https://www.knowyourhome.app/)
 
 <!--
 # Publications
