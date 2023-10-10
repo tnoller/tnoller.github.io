@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Todd Noller is a seasoned technology executive based in Geelong, Australia. Todd has a wealth of knowledge and breadth of experience from a range of positions across the technology industry. 
+Todd Noller is a seasoned technology leader based in Geelong, Australia. Todd has a wealth of knowledge and breadth of experience from a range of positions across the technology industry. 
 
 As Managing Director - Technology, Todd is the executive responsible for Scale Facilitation's® global technology portfolio. He owns and drives internal technology initiatives that support company strategy, in this high growth, fast paced, scale-up environment. 
 
